@@ -5,4 +5,4 @@ this is code:`<p>this is my p</p>`
 
  * list
    *  sublist
-   [link for google] [Google](http://www.google.com/)
+ Here's an inline link to [Google](http://www.google.com/).
